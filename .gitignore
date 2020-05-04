@@ -4,4 +4,3 @@
 /lib/
 /test/
 .travis.yml
-platformio.ini
